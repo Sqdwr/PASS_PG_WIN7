@@ -1,0 +1,4 @@
+﻿  Building 'MyDriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  x.c
+x.obj : error LNK2001: 无法解析的外部符号 __fltused
+C:\Users\Lenovo\Desktop\Pass PG\Debug\MyDriver1.sys : fatal error LNK1120: 1 个无法解析的外部命令

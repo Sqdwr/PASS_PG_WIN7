@@ -1,0 +1,9 @@
+﻿  Building 'MyDriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  x.c
+  MyDriver1.vcxproj -> C:\Users\Lenovo\Desktop\PASS PG\x64\Debug\MyDriver1.sys
+  MyDriver1.vcxproj -> C:\Users\Lenovo\Desktop\PASS PG\x64\Debug\MyDriver1.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Lenovo\Desktop\PASS PG\x64\Debug\MyDriver1.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
